@@ -1,3 +1,3 @@
-- [Home](README.md)
+- [Home](/)
 - [설치 방법](installation.md)
 - [사용 방법](usage.md)
